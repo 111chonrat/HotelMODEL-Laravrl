@@ -1,0 +1,2 @@
+# HotelMODEL-Laravrl
+HotelMODEL
